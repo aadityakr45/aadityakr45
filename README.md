@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Aditya%20Kumar%20Yadav&fontSize=42&fontColor=ffffff&animation=twinkling&desc=AI%20%2F%20GenAI%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Aditya%20Kumar%20Yadav&fontSize=42&fontColor=ffffff&animation=twinkling&desc=%20%2F%20%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=AI+%2F+GenAI+Engineer;Building+Multi-Agent+Systems+%26+RAG+Pipelines;Google+ADK+%7C+Gemini+%7C+LangChain+%7C+FastAPI;Open+to+AI+Engineer+%2F+GenAI+Engineer+Roles" alt="Typing SVG" />
 
