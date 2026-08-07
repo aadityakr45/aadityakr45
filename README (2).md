@@ -124,5 +124,4 @@ An AI-powered multi-agent travel planning platform with supervisor architecture,
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
 </div>
