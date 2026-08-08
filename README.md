@@ -1,19 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Aditya%20Kumar%20Yadav&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Aditya%20Kumar%20Yadav&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=AI+%2F+GenAI+Engineer;Building+Multi-Agent+Systems+%26+RAG+Pipelines;Google+ADK+%7C+Gemini+%7C+LangChain+%7C+FastAPI;Open+to+AI+Engineer+%2F+GenAI+Engineer+Roles" alt="Typing SVG" />
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logoColor=white)
+![Open to Work](https://img.shields.io/badge/●%20Open%20to%20Work-1a1b27?style=for-the-badge&labelColor=1a1b27&color=1a1b27)
+![Role](https://img.shields.io/badge/AI%20ENGINEER%20%2F%20GENAI%20DEVELOPER%20ROLES-1a1b27?style=for-the-badge&color=7dd3fc&labelColor=1a1b27)
 
-![Profile Views](https://komarev.com/ghpvc/?username=aadityakr45&color=7dd3fc&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/aadityakr45?label=Followers&style=flat-square&color=7dd3fc)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=aadityakr45&color=7dd3fc&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/aadityakr45?label=Followers&style=for-the-badge&color=7dd3fc&labelColor=1a1b27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=for-the-badge&labelColor=1a1b27)](https://linkedin.com/in/aditya-kumar-yadav-65b5952b5/)
+[![Email](https://img.shields.io/badge/Email-theadityakr15%40gmail.com-7dd3fc?style=for-the-badge&labelColor=1a1b27&logo=gmail&logoColor=white)](mailto:theadityakr15@gmail.com)
 
 </div>
 
 ---
 
 ### 👨‍💻 Who I Am
+
+<table>
+<tr>
+<td width="65%">
 
 ```typescript
 const aditya = {
@@ -38,6 +47,13 @@ const aditya = {
   openTo: ["AI Engineer", "GenAI Engineer", "Full-time roles"]
 };
 ```
+
+</td>
+<td width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -107,13 +123,6 @@ An AI-powered multi-agent travel planning platform with supervisor architecture,
 
 ---
 
-### 🔗 Connect With Me
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kumar-yadav-65b5952b5/)
-[![Gmail](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theadityakr15@gmail.com)
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
+</div>
