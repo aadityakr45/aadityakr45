@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Aditya%20Kumar%20Yadav&fontSize=42&fontColor=ffffff&animation=twinkling&" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Aditya%20Kumar%20Yadav&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=AI+%2F+GenAI+Engineer;Building+Multi-Agent+Systems+%26+RAG+Pipelines;Google+ADK+%7C+Gemini+%7C+LangChain+%7C+FastAPI;Open+to+AI+Engineer+%2F+GenAI+Engineer+Roles" alt="Typing SVG" />
 
@@ -50,7 +50,7 @@ const aditya = {
 
 </td>
 <td width="35%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 </td>
 </tr>
 </table>
@@ -124,6 +124,5 @@ An AI-powered multi-agent travel planning platform with supervisor architecture,
 ---
 
 <div align="center">
-  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
 </div>
