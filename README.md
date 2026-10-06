@@ -26,7 +26,7 @@
 
 ```typescript
 const aditya = {
-  title: "AI / GenAI Engineer",
+  title: "Software Developer || AI",
   stack: [
     "Python", "Java", "FastAPI", "Spring Boot (Java 21)",
     "LangChain", "LangGraph", "Google ADK", "Gemini (Flash, Live)"
