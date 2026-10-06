@@ -1,5 +1,5 @@
 <h1 align="center">Aditya Kumar Yadav</h1>
-<p align="center"><b>Software Engineer · AI / GenAI · Python, FastAPI, Spring Boot</b></p>
+<p align="center"><b>Software Engineer · AI / GenAI · Python, FastAPI</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-Full--time-7dd3fc?style=for-the-badge&labelColor=1a1b27" />
@@ -14,7 +14,7 @@
 
 2026 B.Tech CSE graduate (GIET University, CGPA 8.10). I build backend services and AI systems, and I've shipped production AI voice agents. Strong in Python, SQL, data structures, and Git. I like code review, writing tests, and owning what I ship.
 
-**Open to:** Software Engineer · Associate Software Engineer · Python / Java Backend · AI Engineer · GenAI Engineer
+**Open to:** Software Engineer · Associate Software Engineer · Python Developer · AI Engineer · GenAI Engineer
 
 ---
 
