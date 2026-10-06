@@ -1,128 +1,59 @@
-<div align="center">
+<h1 align="center">Aditya Kumar Yadav</h1>
+<p align="center"><b>Software Engineer · AI / GenAI · Python, FastAPI, Spring Boot</b></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Aditya%20Kumar%20Yadav&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=AI+%2F+GenAI+Engineer;Building+Multi-Agent+Systems+%26+RAG+Pipelines;Google+ADK+%7C+Gemini+%7C+LangChain+%7C+FastAPI;Open+to+AI+Engineer+%2F+GenAI+Engineer+Roles" alt="Typing SVG" />
-
-![Open to Work](https://img.shields.io/badge/●%20Open%20to%20Work-1a1b27?style=for-the-badge&labelColor=1a1b27&color=1a1b27)
-![Role](https://img.shields.io/badge/AI%20ENGINEER%20%2F%20GENAI%20DEVELOPER%20ROLES-1a1b27?style=for-the-badge&color=7dd3fc&labelColor=1a1b27)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=aadityakr45&color=7dd3fc&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/aadityakr45?label=Followers&style=for-the-badge&color=7dd3fc&labelColor=1a1b27)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=for-the-badge&labelColor=1a1b27)](https://linkedin.com/in/aditya-kumar-yadav-65b5952b5/)
-[![Email](https://img.shields.io/badge/Email-theadityakr15%40gmail.com-7dd3fc?style=for-the-badge&labelColor=1a1b27&logo=gmail&logoColor=white)](mailto:theadityakr15@gmail.com)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Full--time-7dd3fc?style=for-the-badge&labelColor=1a1b27" />
+  <a href="https://linkedin.com/in/aditya-kumar-yadav-65b5952b5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=for-the-badge&labelColor=1a1b27" /></a>
+  <a href="mailto:theadityakr15@gmail.com"><img src="https://img.shields.io/badge/Email-theadityakr15%40gmail.com-7dd3fc?style=for-the-badge&labelColor=1a1b27&logo=gmail&logoColor=white" /></a>
+  <a href="https://my-portfolio-seven-ivory-47.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-7dd3fc?style=for-the-badge&labelColor=1a1b27" /></a>
+</p>
 
 ---
 
-### 👨‍💻 Who I Am
+### 👨‍💻 About
 
-<table>
-<tr>
-<td width="65%">
+2026 B.Tech CSE graduate (GIET University, CGPA 8.10). I build backend services and AI systems, and I've shipped production AI voice agents. Strong in Python, SQL, data structures, and Git. I like code review, writing tests, and owning what I ship.
 
-```typescript
-const aditya = {
-  title: "Software Developer || AI",
-  stack: [
-    "Python", "Java", "FastAPI", "Spring Boot (Java 21)",
-    "LangChain", "LangGraph", "Google ADK", "Gemini (Flash, Live)"
-  ],
-  launchedProjects: [
-    "Voyanta AI — Multi-Agent Travel Workspace"
-  ],
-  certifications: [
-    "Oracle Cloud Infrastructure 2025 AI Foundations Associate",
-    "HackerRank: Python (Intermediate)",
-    "HackerRank: SQL (Intermediate)",
-    "HackerRank: Software Engineer",
-    "Salesforce Prompt Builder SuperBadge",
-    "IBM SkillsBuild: Getting Started with AI",
-    "IBM SkillsBuild: AI Fundamentals"
-  ],
-  status: "Actively seeking new opportunities",
-  openTo: ["AI Engineer", "GenAI Engineer", "Full-time roles"]
-};
-```
-
-</td>
-<td width="35%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
-</td>
-</tr>
-</table>
+**Open to:** Software Engineer · Associate Software Engineer · Python / Java Backend · AI Engineer · GenAI Engineer
 
 ---
 
-### 🚀 Featured Project
+### 💼 Experience
 
-#### Voyanta AI — Multi-Agent Travel Workspace
+**Software Developer, Wiz Digital** (May 2026 – Jul 2026)
+- Built and deployed AI voice agents with Google ADK, Gemini, and Twilio; supported the migration to Gemini Live.
+- Developed Spring Boot (Java 21) backend features and REST APIs; fixed production issues through log analysis.
+- Improved logging and error handling across Docker-deployed services.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aadityakr45&repo=travel-multi-agent&theme=nord&border_color=7dd3fc" alt="Voyanta AI repo pin"/>
+**AI/ML Intern, CSRBox × IBM SkillsBuild** (Jun 2024 – Jul 2024)
+- Built an IBM Watson Assistant chatbot and 2 ML models on IBM Cloud.
 
-An AI-powered multi-agent travel planning platform with supervisor architecture, guardrails, human-in-the-loop review, and resumable workflow execution, integrating external services via MCP for intelligent trip and itinerary generation.
+---
 
-| Layer | Technology |
-|---|---|
-| Backend | FastAPI |
-| Orchestration | LangGraph, LangChain |
-| LLM | Groq |
-| Database | PostgreSQL |
-| Integrations | MCP, Tavily, AviationStack |
-| Deployment | Docker |
+### 🚀 Projects
 
-🔗 **Code:** [github.com/aadityakr45/travel-multi-agent](https://github.com/aadityakr45/travel-multi-agent)
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**Voyanta AI**](https://github.com/aadityakr45/travel-multi-agent) | Multi-agent travel planner with a Supervisor architecture, guardrails, human-in-the-loop approvals, and resumable workflows | Python, FastAPI, LangGraph, LangChain, PostgreSQL, MCP, Docker |
+| [**AerialVision**](https://github.com/aadityakr45/yolo11-visdrone-detector) | YOLO11 aerial object detection (people, cars, buses, trucks) with batch inference on 500+ images | Python, YOLO11, OpenCV, PyTorch |
+
+<!-- Add OrderFlow / CareSync here once they are on GitHub with a README and Docker setup -->
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,html,css" />
+**Languages:** Python · Java · SQL
+**Backend:** FastAPI · Spring Boot · REST APIs · PostgreSQL · Docker
+**AI / LLM:** Google ADK · Gemini · LangChain · LangGraph · MCP · RAG · Prompt Engineering · Guardrails
+**Tools:** Git · GitHub · Linux
 
-**Backend & Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,spring,docker" />
-
-**AI / DB**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,postgres" />
-
-**Dev Tools & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,azure,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,fastapi,spring,postgres,docker,git,github,pytorch,opencv" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📜 Certifications
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aadityakr45&show_icons=true&theme=nord&border_color=7dd3fc&hide_border=false" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityakr45&layout=compact&theme=nord&border_color=7dd3fc&hide_border=false" alt="Top Languages" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=aadityakr45&theme=nord&border=7dd3fc&background=1a1b27" alt="GitHub Streak"/>
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aadityakr45&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityakr45&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
-</div>
+Oracle Cloud Infrastructure 2025 AI Foundations Associate · Salesforce Prompt Builder SuperBadge · HackerRank (Python, SQL, Software Engineer) · IBM SkillsBuild (AI Fundamentals)
